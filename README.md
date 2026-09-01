@@ -7,8 +7,7 @@
 This repository contains the official implementation of the paper:
 
 > **"H-MARL: A Hierarchical Multi-Agent Reinforcement Learning Framework for Dynamic Portfolio Optimization with Graph-Based Stock Selection"**  
-> *Submitted to Expert Systems with Applications (under review)*
-
+> 
 ---
 
 ## 📖 Abstract
